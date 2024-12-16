@@ -9,5 +9,6 @@ usage :
 example : 
 ./synonymes arbre
 Synonyme de arbre : bielle
+
 ./synonymes arbre
 Synonyme de arbre : balancier
