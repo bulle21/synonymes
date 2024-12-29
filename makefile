@@ -2,7 +2,7 @@
 CC = gcc
 #CFLAGS = -Wall -Wextra -std=c99
 CFLAGS = -Wall 
-LDFLAGS = -lncurses
+LDFLAGS = 
 TARGET = synonymes 
 SRC = synonymes.c
 OBJ = $(SRC:.c=.o)
